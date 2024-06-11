@@ -40,4 +40,4 @@ pragma solidity 0.8.26;
         balances[_from] -= _amount;
     }
 
-}
+    }
