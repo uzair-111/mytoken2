@@ -16,7 +16,7 @@ pragma solidity 0.8.26;
        to the amount that is supposed to be burned.
 */
 
-contract MyToken {
+    contract MyToken {
     //public variables here
     string public name = "My Token";
     string public symbol = "MTK";
